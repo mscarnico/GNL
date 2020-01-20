@@ -6,7 +6,7 @@
 /*   By: aalleman <marvin@le-101.fr>                +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/10/17 15:10:26 by aalleman     #+#   ##    ##    #+#       */
-/*   Updated: 2020/01/10 13:27:09 by nigoncal    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/11/09 17:22:58 by aalleman    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -16,7 +16,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "get_next_line.h"
-
 
 void	test(int fd, char **line, int testnb)
 {
